@@ -3,7 +3,7 @@ LIRI is smart search command line program that searches spotify, concerts and mo
 
 # Setup
 Navigate in your console to desired directory. <br>
-'git clone https://github.com/msesno/liri' to clone repo 
+`git clone https://github.com/msesno/liri` to clone repo 
 
 
 ## github repo
