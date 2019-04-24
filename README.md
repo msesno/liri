@@ -1,6 +1,8 @@
 # Liri Bot
 LIRI is smart search command line program that searches spotify, concerts and movie titles. It uses node.js and npm dotenv, moment, fs, axios, moment, and node-spotify-api to fetch queries to their api. It stores spotify key info in a .env file, and uses a gitignore to ignore node modules, .DS_Store, and .env files for data protection. Setup is a little tricky, steps outlined below. 
 
+
+
 ## Setup
 - Navigate in your console to desired directory in console. 
 - run ```git clone https://github.com/msesno/liri``` to clone repo
@@ -26,6 +28,7 @@ node_modules
 Congrats, you should now be ready to run the program! 
 
 
+
 ## Using Liri
 Here are some sample commands once installed properly. 
 
@@ -39,8 +42,12 @@ Here are some sample commands once installed properly.
 - ```node liri spotify Tupac Changes``` will return song data
 - ```node liri concert Red Hot Chili Peppers``` will return concert data
 
+
+
 ## Github 
 https://github.com/msesno/liri
+
+
 
 ## Screenshot
 <img src="ss.png">
