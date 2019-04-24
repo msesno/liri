@@ -33,3 +33,9 @@ Here are some sample commands once installed properly.
 - ```node liri movie Nightmare Before Christmas``` will return movie data
 - ```node liri spotify Tupac Changes``` will return song data
 - ```node liri concert Red Hot Chili Peppers``` will return concert data
+
+## Github 
+https://github.com/msesno/liri
+
+## Screenshot
+<img src="ss.png">
