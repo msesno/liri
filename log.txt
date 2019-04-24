@@ -1,0 +1,836 @@
+
+
+=================CONCERT-SEARCH====================
+Name: Jay-Z
+Venue Name: Webster Hall
+Venue Location: New York, NY, United States
+Venue Time: 04/26/2019, 7:00 PM
+==================================================
+
+
+
+=================CONCERT-SEARCH====================
+Name: Jay-Z
+Venue Name: Webster Hall
+Venue Location: New York, NY, United States
+Venue Time: 04/26/2019, 7:00 PM
+==================================================
+
+
+Song Search Log---------------------------------------
+
+Song Name: The Sign
+
+Artist(s): Ace of Base
+
+Album: The Sign (US Album) [Remastered]
+
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=a0d98a2b5a374fda8f461dabfb554d3b
+
+-------------------------------------------------------
+
+
+=================CONCERT-SEARCH====================
+Name: Jay-Z
+Venue Name: Webster Hall
+Venue Location: New York, NY, United States
+Venue Time: 04/26/2019, 7:00 PM
+==================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Jay-Z
+Venue Name: Webster Hall
+Venue Location: New York, NY, United States
+Venue Time: 04/26/2019, 7:00 PM
+===================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Red Hot Chili Peppers
+Venue Name: Summer Sonic Osaka [08.16 - 08.18]
+Venue Location: Osaka, , Japan
+Venue Time: 08/16/2019, 7:00 PM
+===================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Red Hot Chili Peppers
+Venue Name: Summer Sonic Tokyo [08.16 - 08.18]
+Venue Location: Tokyo, , Japan
+Venue Time: 08/17/2019, 7:00 PM
+===================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Red Hot Chili Peppers
+Venue Name: Singapore Grand Prix
+Venue Location: Singapore, , Singapore
+Venue Time: 09/22/2019, 7:00 PM
+===================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Red Hot Chili Peppers,Jenny Lewis,Jack Irons,Lukas Nelson,Nathaniel Rateliff,Ohana,Poolside,John Craigie,Las Cafeteras,Lukas Nelson & Promise of the Real,Mt. Joy,Jacob Banks,Henry Jamison,Lewis Capaldi,THE NIGHT SWEATS
+Venue Name: Ohana Festival [09.27 - 09.29]
+Venue Location: Dana Point, CA, United States
+Venue Time: 09/29/2019, 11:00 AM
+===================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Red Hot Chili Peppers
+Venue Name: Rock in Rio [09.27 - 10.06]
+Venue Location: Rio De Janeiro, , Brazil
+Venue Time: 10/03/2019, 7:00 PM
+===================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Jay-Z
+Venue Name: Webster Hall
+Venue Location: New York, NY, United States
+Venue Time: 04/26/2019, 7:00 PM
+===================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Red Hot Chili Peppers
+Venue Name: Summer Sonic Osaka [08.16 - 08.18]
+Venue Location: Osaka, , Japan
+Venue Time: 08/16/2019, 7:00 PM
+===================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Red Hot Chili Peppers
+Venue Name: Summer Sonic Tokyo [08.16 - 08.18]
+Venue Location: Tokyo, , Japan
+Venue Time: 08/17/2019, 7:00 PM
+===================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Red Hot Chili Peppers
+Venue Name: Singapore Grand Prix
+Venue Location: Singapore, , Singapore
+Venue Time: 09/22/2019, 7:00 PM
+===================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Red Hot Chili Peppers
+Venue Name: Ohana Festival [09.27 - 09.29]
+Venue Location: Dana Point, CA, United States
+Venue Time: 09/29/2019, 11:00 AM
+===================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Red Hot Chili Peppers
+Venue Name: Rock in Rio [09.27 - 10.06]
+Venue Location: Rio De Janeiro, , Brazil
+Venue Time: 10/03/2019, 7:00 PM
+===================================================
+
+
+
+=================MOVIE-SEARCH====================
+Year: 2009
+
+IMDB Rating: 7.8
+
+Rotten Tomatoes: 67%
+
+Country: Belgium, Germany, Canada, France, USA, UK
+
+Language: English, Mohawk
+
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Year: 2009
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+==================================================
+
+
+
+=================MOVIE-SEARCH====================
+Year: 1999
+
+IMDB Rating: 8.7
+
+Rotten Tomatoes: 88%
+
+Country: USA
+
+Language: English
+
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+
+Year: 1999
+
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+==================================================
+
+
+Song Search Log---------------------------------------
+
+Song Name: I Want It That Way
+
+Artist(s): Backstreet Boys
+
+Album: The Hits--Chapter One
+
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=a0d98a2b5a374fda8f461dabfb554d3b
+
+-------------------------------------------------------
+
+
+=================MOVIE-SEARCH====================
+Title: The Matrix
+
+Year: 1999
+
+IMDB Rating: 8.7
+
+Country: USA
+
+Language: English
+
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+
+==================================================
+
+
+
+=================MOVIE-SEARCH====================
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+Country: USA
+Language: English
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Song Name: The Sign
+Artist(s): Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=a0d98a2b5a374fda8f461dabfb554d3b
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Song Name: The Motto
+Artist(s): Drake
+Album: Take Care (Deluxe)
+Preview Link: null
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Preview Link: null
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Preview Link: null
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Preview Link: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Spotify URL: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+Spotify URL: true
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Spotify URL: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+Explicit: true
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Spotify URL: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+Explicit: true
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Spotify URL: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+Explicit: true
+==================================================
+
+
+
+=================MOVIE-SEARCH====================
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.8
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+==================================================
+
+
+
+=================MOVIE-SEARCH====================
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+Country: USA
+Language: English
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+==================================================
+
+
+
+=================MOVIE-SEARCH====================
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+Country: USA
+Language: English
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+==================================================
+
+
+
+=================MOVIE-SEARCH====================
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+Country: USA
+Language: English
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+==================================================
+
+
+
+=================MOVIE-SEARCH====================
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+Country: USA
+Language: English
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+==================================================
+
+
+
+=================MOVIE-SEARCH====================
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+Country: USA
+Language: English
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Michael Jackson
+Song Name: Billie Jean
+Album: Thriller 25 Super Deluxe Edition
+Spotify URL: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+Explicit: false
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Michael Jackson
+Song Name: Billie Jean
+Album: Thriller 25 Super Deluxe Edition
+Spotify URL: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+Explicit: false
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Spotify URL: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+Explicit: true
+==================================================
+
+
+
+=================MOVIE-SEARCH====================
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+Country: USA
+Language: English
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Michael Jackson
+Song Name: Billie Jean
+Album: Thriller 25 Super Deluxe Edition
+Spotify URL: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+Explicit: false
+==================================================
+
+
+
+=================MOVIE-SEARCH====================
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+Country: USA
+Language: English
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Spotify URL: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+Explicit: true
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Michael Jackson
+Song Name: Billie Jean
+Album: Thriller 25 Super Deluxe Edition
+Spotify URL: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+Explicit: false
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Spotify URL: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+Explicit: true
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Michael Jackson
+Song Name: Billie Jean
+Album: Thriller 25 Super Deluxe Edition
+Spotify URL: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+Explicit: false
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Spotify URL: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+Explicit: true
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Spotify URL: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+Explicit: true
+==================================================
+
+
+
+=================MOVIE-SEARCH====================
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+Country: USA
+Language: English
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+==================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Michael Jackson
+Song Name: Billie Jean
+Album: Thriller 25 Super Deluxe Edition
+Spotify URL: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+Explicit: false
+==================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Jay-Z
+Venue Name: Webster Hall
+Venue Location: New York, NY, United States
+Venue Time: 04/26/2019, 7:00 PM
+===================================================
+
+
+
+=================MOVIE-SEARCH====================
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+Country: USA
+Language: English
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+==================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Jay-Z
+Venue Name: Webster Hall
+Venue Location: New York, NY, United States
+Venue Time: 04/26/2019, 7:00 PM
+===================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Jay-Z
+Venue Name: Webster Hall
+Venue Location: New York, NY, United States
+Venue Time: 04/26/2019, 7:00 PM
+===================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Jay-Z
+Venue Name: Webster Hall
+Venue Location: New York, NY, United States
+Venue Time: 04/26/2019, 7:00 PM
+===================================================
+
+
+
+=================SONG-SEARCH====================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Spotify URL: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+Explicit: true
+==================================================
+
+
+
+=================MOVIE-SEARCH====================
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+Country: USA
+Language: English
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+==================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Jay-Z
+Venue Name: Webster Hall
+Venue Location: New York, NY, United States
+Venue Time: 04/26/2019, 7:00 PM
+===================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Jay-Z
+Venue Name: Webster Hall
+Venue Location: New York, NY, United States
+Venue Time: 04/26/2019, 7:00 PM
+===================================================
+
+
+
+===================SONG-SEARCH===================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Spotify URL: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+Explicit: true
+==================================================
+
+
+
+===================SONG-SEARCH===================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Spotify URL: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+Explicit: true
+==================================================
+
+
+
+===================SONG-SEARCH===================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Spotify URL: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+Explicit: true
+==================================================
+
+
+
+===================SONG-SEARCH===================
+Artist(s): Michael Jackson
+Song Name: Billie Jean
+Album: Thriller 25 Super Deluxe Edition
+Spotify URL: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+Explicit: false
+==================================================
+
+
+
+===================SONG-SEARCH===================
+Artist(s): Michael Jackson
+Song Name: Billie Jean
+Album: Thriller 25 Super Deluxe Edition
+Spotify URL: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+Explicit: false
+==================================================
+
+
+
+===================SONG-SEARCH===================
+Artist(s): Michael Jackson
+Song Name: Billie Jean
+Album: Thriller 25 Super Deluxe Edition
+Spotify URL: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+Explicit: false
+==================================================
+
+
+
+===================SONG-SEARCH===================
+Artist(s): Michael Jackson
+Song Name: Billie Jean
+Album: Thriller 25 Super Deluxe Edition
+Spotify URL: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+Explicit: false
+==================================================
+
+
+
+===================SONG-SEARCH===================
+Artist(s): Michael Jackson
+Song Name: Billie Jean
+Album: Thriller 25 Super Deluxe Edition
+Spotify URL: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+Explicit: false
+==================================================
+
+
+
+===================SONG-SEARCH===================
+Artist(s): Michael Jackson
+Song Name: Billie Jean
+Album: Thriller 25 Super Deluxe Edition
+Spotify URL: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+Explicit: false
+==================================================
+
+
+
+===================SONG-SEARCH===================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Spotify URL: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+Explicit: true
+==================================================
+
+
+
+=================MOVIE-SEARCH====================
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+Country: USA
+Language: English
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+==================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Jay-Z
+Venue Name: Webster Hall
+Venue Location: New York, NY, United States
+Venue Time: 04/26/2019, 7:00 PM
+===================================================
+
+
+
+===================SONG-SEARCH===================
+Artist(s): Michael Jackson
+Song Name: Billie Jean
+Album: Thriller 25 Super Deluxe Edition
+Spotify URL: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+Explicit: false
+==================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Jay-Z
+Venue Name: Webster Hall
+Venue Location: New York, NY, United States
+Venue Time: 04/26/2019, 7:00 PM
+===================================================
+
+
+
+===================SONG-SEARCH===================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Spotify URL: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+Explicit: true
+==================================================
+
+
+
+=================MOVIE-SEARCH====================
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+Country: USA
+Language: English
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+==================================================
+
+
+
+===================SONG-SEARCH===================
+Artist(s): Michael Jackson
+Song Name: Billie Jean
+Album: Thriller 25 Super Deluxe Edition
+Spotify URL: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+Explicit: false
+==================================================
+
+
+
+==================CONCERT-SEARCH====================
+Name: Jay-Z
+Venue Name: Webster Hall
+Venue Location: New York, NY, United States
+Venue Time: 04/26/2019, 7:00 PM
+===================================================
+
+
+
+===================SONG-SEARCH===================
+Artist(s): Drake
+Song Name: The Motto
+Album: Take Care (Deluxe)
+Spotify URL: https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa
+Explicit: true
+==================================================
+
+
+
+=================MOVIE-SEARCH====================
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+Country: USA
+Language: English
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+==================================================
+
+
+
+===================SONG-SEARCH===================
+Artist(s): Michael Jackson
+Song Name: Billie Jean
+Album: Thriller 25 Super Deluxe Edition
+Spotify URL: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+Explicit: false
+==================================================
+

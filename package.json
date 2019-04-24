@@ -1,0 +1,35 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Liri uses axios to access spotify, bands in town, and OMDB APIs.",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msesno/liri.git"
+  },
+  "keywords": [
+    "liri",
+    "spotify",
+    "bands",
+    "in",
+    "town",
+    "omdb"
+  ],
+  "author": "Matt Sesno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msesno/liri/issues"
+  },
+  "homepage": "https://github.com/msesno/liri#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  },
+  "devDependencies": {}
+}
