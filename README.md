@@ -5,11 +5,11 @@ LIRI is smart search command line program that searches spotify, concerts and mo
 - Navigate in your console to desired directory in console. <br>
 - ```git clone https://github.com/msesno/liri``` : to clone repo <br>
 - ```touch .env``` : to create .env file <br>
-- add ```SPOTIFY_ID=yourSpotifyID
+- add ```SPOTIFY_ID=yourSpotifyID<br> 
 SPOTIFY_SECRET=yourSpotifySECRET``` to .env file with your id/secret <br>
 - ```touch .gitignore``` : to create .env file <br>
-- add ```node_modules
-.DS_Store
+- add ```node_modules<br>
+.DS_Store<br>
 .env``` : to .gitignore file 
 - run ```npm init -y``` : to see init file 
 - run ```npm i dotenv``` : to install env node package 
